@@ -11,7 +11,7 @@
         "php": "^8.0"
     },
     "autoload": {
-        "psr-3": {
+        "psr-4": {
             "Keven\\PropertyAccess\\": "src/"
         }
     }
